@@ -1,0 +1,51 @@
+.widget .tf-feature-box-outer {
+	width: 244px;
+	height: 368px;
+	overflow: hidden;
+	position: relative;
+}
+
+	.widget .tf-feature-box-outer img {
+		display: block;
+	}
+
+.tf-feature-box-title {
+	width: 244px;
+	height: 81px;
+	overflow: hidden;
+}
+
+	.widget .tf-feature-box-title h2 {
+		margin: 0;
+		padding: 0;
+		font-size: 25px;
+		font-weight: normal;
+		font-weight: 300;
+		color: #ffffff;
+		margin: 16px 60px 0 20px;
+	}
+	
+	.widget .tf-feature-box-title h2 a {
+		color: #ffffff;
+	}
+
+.widget .tf-feature-text-box {
+	background-color: #ffffff;
+	width: 244px;
+	height: 160px;
+	overflow: hidden;
+}
+
+	.widget .tf-feature-text-box p {
+		margin: 0;
+		padding: 34px 20px 26px 20px;
+		line-height: 18px;
+		text-transform: uppercase;
+		color: #1e1e1e;
+	}
+	
+.widget .tf-feature-box-icon {
+	position: absolute;
+	right: 10px;
+	top: 38px;
+}
